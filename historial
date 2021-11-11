@@ -1,0 +1,128 @@
+    1  clear
+    2  sudo ifup enp0s3
+    3  sudo apt-get update
+    4  sudo netplan apply
+    5  sudo ifup enp0s3
+    6  sudo ip link enp0s3 up
+    7  ip addr
+    8  sudo ip addr add 192.168.56.105 dev enp0s8
+    9  sudo ip link set enp0s8 up
+   10  ping 192.168.56.1
+   11  ping 192.168.56.106
+   12  sudo ip link enp0s3 up
+   13  ip link help
+   14  clear
+   15  ip
+   16  ip addr
+   17  sudo ip addr add 192.168.56.105/24 dev enp0s8
+   18  ip addr
+   19  ip 
+   20  ip -r enp0s8
+   21  clear
+   22  sudo ip link set enp0s3 up
+   23  sudo apt-get update
+   24  sudo ifup enp0s3
+   25  sudo apt-get install ifupdown
+   26  sudo ifup enp0s3
+   27  sudo ip link set enp0s3 up
+   28  sudo ip addr add 192.168.56.105/24 dev enp0s8
+   29  ping 192.168.56.106/24
+   30  ping 192.168.56.106
+   31  clear
+   32  sudo apt-get install xubuntu-desktop
+   33  sudo apt update
+   34  sudo apt dist-upgrade
+   35  sudo apt install --no-install-recommends xubuntu-desktop
+   36  sudo ip link enp0s3 up
+   37  sudo reboot
+   38  sudo apt-get update
+   39  sudo ifup enpOs3
+   40  sudo ifup enps03
+   41  cler
+   42  lear
+   43  clear
+   44  ip addr
+   45  sudo ip addr add 192.168.56.1/24 dev enp0s8
+   46  sudo ip link set enp0s8 up
+   47  sudo apt-get update
+   48  sudo ip addr add 192.168.56.1 dev enp0s8
+   49  sudo apt-get update
+   50  sudo ip addr add 192.168.56.105/24 dev enp0s8
+   51  sudo ip link set enp0s8 up
+   52  sudo ip link set enp0s3 up
+   53  ip addr
+   54  reboot
+   55  cd ..
+   56  ls
+   57  cd ..
+   58  cd et
+   59  cd etc
+   60  cd network
+   61  cat interfaces 
+   62  sudo nano interfaces
+   63  cat interfaces
+   64  cd ..
+   65  cd netplan/
+   66  sudo nano 00-installer-config.yaml 
+   67  ifconfig
+   68  sudo apt install net-tools
+   69  cd 
+   70  sudo su
+   71  ls
+   72  git clone https://github.com/manuelfp10/Prueba2.git
+   73  ls
+   74  cd Prueba2
+   75  ls
+   76  git branch
+   77  git checkout -b
+   78  git checkout -b rama
+   79  git branch
+   80  git man
+   81  help git
+   82  git help
+   83  clear
+   84  git commit 
+   85  git config --global user.email "manuelfuenpl@correo.ugr.es
+   86  git config --global user.email "manuelfuenpl@correo.ugr.es"
+   87  git config --global user.name "ManuelFP"
+   88  git commit 
+   89  git commit "Nueva Rama Creada"
+   90  touch historial
+   91  cp -a history > historial
+   92  history
+   93  cp -a history >> historial
+   94  cp history > historial
+   95  mv history > historial
+   96  mv history >> historial
+   97  clera
+   98  clear
+   99  gedit historial
+  100  nano historial
+  101  ls
+  102  cat historial
+  103  cp history historial
+  104  cp -a history historial
+  105  cat history
+  106  histoy
+  107  history
+  108  mv history historial
+  109  mv history > historial
+  110  sudo mv history > historial
+  111  sudo mv history |  historial
+  112  mv
+  113  mv --help
+  114  clear
+  115  cp 
+  116  cp --help
+  117  clera
+  118  clear
+  119  cp -a history
+  120  cp -a history histo
+  121  rm -r historial 
+  122  mv history > historial
+  123  mv history >> historial
+  124  cp -a history >> historial
+  125  cp -a history historial
+  126  sudo cp -a history historial
+  127  cat history
+  128  history > historial
